@@ -34,9 +34,9 @@ void LinearSearch()
 	char ch;
 	int comparison; // Number of comparison
 
-	
-}
-
-
-
-
+	do
+	{
+		//Accept the number to be search 
+		cout << "\nEnter the element you want to search: "; //Langkah 1
+		int item;
+		cin >> item;
